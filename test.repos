@@ -17,8 +17,8 @@ repositories:
     version: melodic-devel
   hector_slam:
     type: git
-    url: https://github.com/tu-darmstadt-ros-pkg/hector_slam.git
-    version: noetic-devel
+    url: https://github.com/sugikazu75/hector_slam.git
+    version: obese-devel
   velodyne:
     type: git
     url: https://github.com/ros-drivers/velodyne.git
