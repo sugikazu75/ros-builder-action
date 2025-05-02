@@ -15,3 +15,11 @@ repositories:
     type: git
     url: https://github.com/tu-darmstadt-ros-pkg/hector_slam.git
     version: noetic-devel
+  velodyne:
+    type: git
+    url: https://github.com/ros-drivers/velodyne.git
+    version: master
+  velodyne_simulator:
+    type: git
+    url: https://bitbucket.org/DataspeedInc/velodyne_simulator.git
+    version: master
