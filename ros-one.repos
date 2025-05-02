@@ -1094,6 +1094,14 @@ repositories:
     type: git
     url: https://github.com/ros-o/usb_cam.git
     version: obese-devel
+  velodyne:
+    type: git
+    url: https://github.com/ros-drivers/velodyne.git
+    version: master
+  velodyne_simulator:
+    type: git
+    url: https://bitbucket.org/DataspeedInc/velodyne_simulator.git
+    version: master
   view_controller_msgs:
     type: git
     url: https://github.com/ros-visualization/view_controller_msgs.git
