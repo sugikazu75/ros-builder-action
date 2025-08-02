@@ -1,0 +1,5 @@
+repositories:
+  ros_canopen:
+    type: git
+    url: https://github.com/ros-industrial/ros_canopen.git
+    version: melodic-devel
