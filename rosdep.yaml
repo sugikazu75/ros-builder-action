@@ -21,6 +21,9 @@ gazebo11:
 libgazebo11-dev:
   ubuntu: [libgazebo11-dev]
 
+libogre-dev:
+  ubuntu: [libogre-1.12-dev]
+
 libuvc:
   ubuntu: [libuvc-dev]
 
