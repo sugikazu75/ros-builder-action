@@ -230,6 +230,10 @@ repositories:
     type: git
     url: https://github.com/tork-a/euslisp-release.git
     version: release/noetic/euslisp
+  example_robot_descriptions:
+    type: git
+    url: https://github.com/gepetto/example-robot-descriptions.git
+    version: devel
   executive_smach:
     type: git
     url: https://github.com/ros/executive_smach.git
